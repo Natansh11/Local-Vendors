@@ -1,4 +1,4 @@
-# Sahakarita - Modern Full-Stack Application
+# Local-Vendors - Modern Full-Stack Application
 
 A modern full-stack application built with Next.js, NestJS, and MongoDB/PostgreSQL.
 
